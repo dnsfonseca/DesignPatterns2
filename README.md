@@ -1,7 +1,5 @@
 # DesignPatterns2
 
-Projeto criado para trabalho sobre design patterns - Unipam - Análise e Desenvolvimento de Sistemas
-
 <h1 align = "center"> :fast_forward: Projeto: Design Patterns 2 :rewind: </h1>
 <h3 align = "center"> pt-BR </h3>
 
